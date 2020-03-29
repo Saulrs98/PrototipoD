@@ -852,3 +852,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.29-21.56.26:228][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2020.03.29-21.56.26:334][963]LogSavePackage: Moving 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Saved/Minimal_Default5716F88C47A22572C0245DA3C44AC235.tmp' to 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Content/StarterContent/Maps/Minimal_Default.umap'
 [2020.03.29-21.56.26:393][963]LogSavePackage: Moving 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Saved/Minimal_Default_BuiltData85DA81DD4CE4E13FCA32258ABD5C9EF9.tmp' to 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.03.29-22.07.32:861][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.29-22.07.36:723][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.29-22.07.36:757][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.29-22.07.36:881][672]LogSavePackage: Moving 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Saved/Minimal_Default0BF183EE4756422DCEE1DEAD7DC4EA36.tmp' to 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.03.29-22.07.36:951][672]LogSavePackage: Moving 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Saved/Minimal_Default_BuiltData9E8784BB445A2EC8797D67A107873AE8.tmp' to 'D:/SEMESTRE ENEMAY 2020/AMBIENTES VIRTUALES/Proyecto/GitHub/PrototipoD/Test1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
